@@ -1,4 +1,3 @@
-const arr = ['', 'Fizz', 'Buzz', 'FizzBuzz'];
 function fizzBuzz(num) {
   const is3 = num % 3 == 0 ? 'Fizz' : '';
   const is5 = num % 5 == 0 ? 'Buzz' : '';
